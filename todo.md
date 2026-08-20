@@ -17,3 +17,4 @@
 - [x] Completar o CRUD de documentos e finanças com exclusão confirmada e fluxos verificáveis de revisão, arquivamento e mudança de status.
 - [x] Completar a agenda com recorrência persistida, edição e calendário baseado na grade real do mês.
 - [x] Expandir a suíte de testes para cobrir persistência local, dados de demonstração, operações de exclusão, exportação e recorrência.
+- [x] Criar um repositório no GitHub e exportar a versão validada do Life Hub.
